@@ -1,0 +1,11 @@
+.menu-container {
+    margin: 10px 100px;
+}
+.menu-container a {
+    margin-right: 10px;
+}
+
+.linkActive {
+    color: #0070f3;
+    text-decoration: underline;
+}
